@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+output/
+build/
+
+*.o
+*.d
+*.exe
+*.dev
+*.layout
+Makefile.win
+
